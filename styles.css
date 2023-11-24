@@ -82,6 +82,7 @@ body {
     flex-direction: column;
     align-content: center;
     justify-content: center;
+    gap: 80px;
     
  }
 
@@ -91,7 +92,7 @@ body {
     font-weight: bolder;
     color: 1f2937;
     align-self: center;
-    padding-top: 80px;
+    
 }
 
  .images {
@@ -100,7 +101,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    flex: 2;
+   
 }
 
  .descripcion {
@@ -139,6 +140,7 @@ display: flex;;
     width: 800px;
     padding: 100px 100px;
     flex-direction: column;
+    overflow: inherit;
      
  }
 
